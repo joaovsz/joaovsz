@@ -1,5 +1,7 @@
 ## Olá! Eu sou o João Vitor
 
+### Estudante de Engenharia de Software 👨‍💻
+
 <div>
   <a href="https://github.com/joaovsz">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaovsz&show_icons=false&theme=synthwave&title_color=#930CF7&bg_color=111111&include_all_commits=true&count_private=true"/>
