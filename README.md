@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/joaovsz">
-  <img height="170em" src="https://github-stats-44bpq56tc-joaovszs-projects.vercel.app/api?username=joaovsz&show_icons=false&theme=synthwave&title_color=#930CF7&bg_color=111111&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-stats-git-main-joaovszs-projects.vercel.app/api?username=joaovsz&show_icons=false&theme=synthwave&title_color=#930CF7&bg_color=111111&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovsz&layout=compact&langs_count=7&theme=synthwave&title_color=#930CF7&bg_color=111111"/>
 </div>
  <p align="center"> 
